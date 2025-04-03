@@ -8,3 +8,7 @@ vim.opt.autowrite = true
 vim.opt.cursorline = true
 vim.opt.autoread = true
 
+vim.opt.number = true
+vim.opt.relativenumber = false
+vim.opt.wrap = true
+vim.opt.linebreak = true
